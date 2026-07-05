@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  front-family: 'poppins', sans-serif;
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: centre;
+  align-items: centre;
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.container {
+  text-align: centre;
+  backgroumd: fffff;
+  padding:40px 50px;
+  border-radius: 20px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+  ]position: relative;
+  overflow: hidden;
+}
