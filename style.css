@@ -7,12 +7,12 @@
 body {
   height: 100vh;
   display: flex;
-  justify-content: centre;
-  align-items: centre;
+  justify-content: center;
+  align-items: center;
   background: linear-gradient(135deg, #ff9a9e, #fad0c4);
 }
 .container {
-  text-align: centre;
+  text-align: center;
   backgroumd: fffff;
   padding:40px 50px;
   border-radius: 20px;
